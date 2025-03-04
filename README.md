@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theswheem
-- 👀 I’m interested in smart contract development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning HTML and Java
 - 💞️ I’m looking to learn as much as I can, I'm extremely new to programming
 - 📫 How to reach me ...
 
